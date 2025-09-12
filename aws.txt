@@ -1,0 +1,11 @@
+AMAZON WEB SERVICES:
+--------------------
+
+1-> EC-2
+2-> Dynamo DB
+3-> S# bucket
+4-> EBS
+5-> AMI
+6-> VPN
+7-> DNS
+8-> RDS
