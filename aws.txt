@@ -9,3 +9,6 @@ AMAZON WEB SERVICES:
 6-> VPN
 7-> DNS
 8-> RDS
+
+We have 200+ more services in the AWS
+
